@@ -23,4 +23,4 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 Detailed articles are here:  
-[Turkish]() | [English]()
+[Turkish](https://www.sezerbozkir.com/2022/10/aws-s3-nedir-django-ile-nasil-kullanilir/) | [English](https://www.sezerbozkir.com/en/2022/10/what-is-aws-s3-how-to-use-with-django/)
